@@ -1,5 +1,5 @@
 width = 900;
-height = 600;
+height = 650;
 
 margin = 100;
 lineSpacing = 125;

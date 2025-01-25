@@ -28,7 +28,7 @@ if acceptKey {
 				case 0:
 				    //"start game"
 					if iMenuControl.menuType == "main" {
-						//room_goto(rBar);
+						room_goto(rMainRoom);
 					}
 					//"resume game"
 					else {
