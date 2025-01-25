@@ -15,7 +15,7 @@ if position < 0 {
 //selectuj opciju miš
 for (var i = 0; i < optionLength; i += 1) {
 	if mouse_y >= y + margin + lineSpacing * i 
-	and mouse_y < y + margin + lineSpacing * i + 15 //if the mouse is hovering over the option
+	and mouse_y < y + margin + lineSpacing * i + 36 //if the mouse is hovering over the option
 	and mouseOnMenu(oMenu) { //if the mouse is within the menu
 		position = i; //highlight the option
 	}
