@@ -1,5 +1,7 @@
-menuType = "inGame";
-instance_create_layer(x, y, "layerMenu", oMenu);
+if menuType != "main" {
+	menuType = "inGame";
+    instance_create_layer(x, y, "layerMenu", oMenu);
+}
 
 oMenu.width = width;
 oMenu.height = height;
