@@ -3,5 +3,5 @@ draw_set_font(fAdamantSansProRegular);
 draw_set_valign(fa_top);
 draw_set_halign(fa_left)
 for (var i = 0; i < optionLength; i += 1) {
-	draw_text_color(x + leftMargin, y + topMargin + lineSpacing * i, option[i], statColor, statColor, statColor, statColor, 1);
+	draw_text_color(x + leftMargin, y + topMargin + lineSpacing * i, option[i] + " = " + string(optionValue[i]), statColor, statColor, statColor, statColor, 1);
 }
