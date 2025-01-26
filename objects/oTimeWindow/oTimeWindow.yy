@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMenuBg",
-    "path":"sprites/sMenuBg/sMenuBg.yy",
+    "name":"sTimeWindow",
+    "path":"sprites/sTimeWindow/sTimeWindow.yy",
   },
   "spriteMaskId":null,
   "visible":true,

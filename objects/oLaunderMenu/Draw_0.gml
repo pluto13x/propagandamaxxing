@@ -3,9 +3,9 @@ draw_set_font(fAdamantSansProRegular);
 draw_set_valign(fa_top);
 draw_set_halign(fa_left)
 for (var i = 0; i < optionLength; i += 1) {
-	var optionColor = c_white;
+	var optionColor = c_black;
 	if i == position {
-		optionColor = c_yellow; //draw everything in white, except the highlighted option
+		optionColor = c_red; //draw everything in white, except the highlighted option
 	}
 	if i <= 5 {
 		draw_text_color(x + margin, y + topMargin + lineSpacing * i, option[menuLevel, i], optionColor, optionColor, optionColor, optionColor, 1);

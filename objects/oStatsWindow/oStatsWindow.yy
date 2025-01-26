@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMenuBg",
-    "path":"sprites/sMenuBg/sMenuBg.yy",
+    "name":"sStatsWindow",
+    "path":"sprites/sStatsWindow/sStatsWindow.yy",
   },
   "spriteMaskId":null,
   "visible":true,
