@@ -39,6 +39,33 @@ if acceptKey {
 				case 2: // Media house
 					
 					break;
+				case 3: // Military base
+					
+					break;
+				case 4: // Prison
+					
+					break;
+				case 5: // Stadion
+					
+					break;
+				case 6: // Plaza
+					
+					break;
+				case 7: // Student dorm
+					
+					break;
+				case 8: // University
+					
+					break;
+				case 9: // Court
+					
+					break;
+				case 10: // Culture expo
+					
+					break;
+				case 11: // Assembly
+					
+					break;
 			}
 			menuLevel = 1;
 		    position = 0;
@@ -62,9 +89,15 @@ if acceptKey {
 				case 4: //back
 					menuLevel = 0;
 					position = 0;
+					dontbreak = true;
 				    break;
 			}
-			instance_destroy(self);
+			if !dontbreak {
+				instance_destroy(self);
+			}
+			else {
+				dontbreak = false;
+			}
 			break;
 	}   
 	optionLength = array_length(option[menuLevel]);

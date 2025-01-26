@@ -32,6 +32,7 @@ option[1,0] = "0%";
 option[1,1] = "25%";
 option[1,2] = "50%";
 option[1,3] = "75%";
+option[1,4] = "Back";
 
 optionLength = array_length(option[0]);
 
