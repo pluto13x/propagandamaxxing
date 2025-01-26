@@ -4,6 +4,7 @@ image_xscale = width/sprite_width;
 image_yscale = height/sprite_height;
 
 margin = iMenuControl.margin;
+topMargin = 50;
 lineSpacing = iMenuControl.lineSpacing;
 x = room_width / 2 - width / 2;
 y = room_height / 2 - height / 2;
