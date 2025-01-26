@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"iMenuControl",
+  "%Name":"iPopupControl",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"iMenuControl",
+  "name":"iPopupControl",
   "overriddenProperties":[],
   "parent":{
     "name":"info",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMenuControl",
-    "path":"sprites/sMenuControl/sMenuControl.yy",
+    "name":"sPopupControl",
+    "path":"sprites/sPopupControl/sPopupControl.yy",
   },
   "spriteMaskId":null,
   "visible":false,

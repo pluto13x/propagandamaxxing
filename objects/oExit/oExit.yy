@@ -1,19 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"iMenuControl",
+  "%Name":"oExit",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"iMenuControl",
+  "name":"oExit",
   "overriddenProperties":[],
   "parent":{
-    "name":"info",
-    "path":"folders/Objects/info.yy",
+    "name":"Main room",
+    "path":"folders/Objects/Main room.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -31,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMenuControl",
-    "path":"sprites/sMenuControl/sMenuControl.yy",
+    "name":"sExit",
+    "path":"sprites/sExit/sExit.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

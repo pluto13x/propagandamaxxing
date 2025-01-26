@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"iInitNext",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oNo",
+  "eventList":[],
   "managed":true,
-  "name":"iInitNext",
+  "name":"oNo",
   "overriddenProperties":[],
   "parent":{
-    "name":"info",
-    "path":"folders/Objects/info.yy",
+    "name":"Main room",
+    "path":"folders/Objects/Main room.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sInitNext",
-    "path":"sprites/sInitNext/sInitNext.yy",
+    "name":"sNo",
+    "path":"sprites/sNo/sNo.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
