@@ -1,7 +1,7 @@
 upKey = keyboard_check_pressed(vk_up);
 downKey = keyboard_check_pressed(vk_down);
 acceptKey = keyboard_check_pressed(ord("Z")) or keyboard_check_pressed(ord("Y")) 
-or mouse_check_button_pressed(mb_left) and mouseOnMenu(oLaunderMenu);
+or mouse_check_button_pressed(mb_left) and mouseOnMenu(oLaunderMenu, topMargin);
 
 //selectuj opciju tastatura
 position += downKey - upKey;
@@ -14,10 +14,15 @@ if position < 0 {
 
 //selectuj opciju miš
 for (var i = 0; i < optionLength; i += 1) {
-	if mouse_y >= y + margin + lineSpacing * i 
-	and mouse_y < y + margin + lineSpacing * i + font_get_size(fAdamantSansProRegular) //if the mouse is hovering over the option
-	and mouseOnMenu(oLaunderMenu) { //if the mouse is within the menu
-		position = i; //highlight the option
+	if mouse_y >= y + topMargin + lineSpacing * i 
+	and mouse_y < y + topMargin + lineSpacing * i + font_get_size(fAdamantSansProRegular) //if the mouse is hovering over the option
+	and mouseOnMenu(oLaunderMenu, topMargin) { //if the mouse is within the menu
+		if mouse_x <= room_width / 2 {
+			position = i; //highlight the option in column 1
+		}
+	    else {
+			position = i + 6; //highlight the option in column 2
+		}
 	}
 }
 //funkcionalne opcije

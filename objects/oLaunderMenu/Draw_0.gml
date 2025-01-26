@@ -7,11 +7,11 @@ for (var i = 0; i < optionLength; i += 1) {
 	if i == position {
 		optionColor = c_yellow; //draw everything in white, except the highlighted option
 	}
-	if i <= 4 {
+	if i <= 5 {
 		draw_text_color(x + margin, y + topMargin + lineSpacing * i, option[menuLevel, i], optionColor, optionColor, optionColor, optionColor, 1);
 	}
 	else {
-		draw_text_color(x + margin + 400, y + topMargin + lineSpacing * (i-5), option[menuLevel, i], optionColor, optionColor, optionColor, optionColor, 1);
+		draw_text_color(x + margin + 400, y + topMargin + lineSpacing * (i-6), option[menuLevel, i], optionColor, optionColor, optionColor, optionColor, 1);
 	}
 	
 }
