@@ -1,0 +1,1 @@
+iTimeControl.step = 2;

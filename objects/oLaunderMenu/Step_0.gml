@@ -75,16 +75,16 @@ if acceptKey {
 		case 1: //how much money
 			switch(position) {
 				case 0: //0%
-					
+					dontbreak = false;
 					break;
 				case 1: //25%
-					
+					dontbreak = false;
 					break;
 				case 2: //50%
-					
+					dontbreak = false;
 				    break;
 				case 3: //75%
-					
+					dontbreak = false;
 					break;
 				case 4: //back
 					menuLevel = 0;
@@ -93,10 +93,8 @@ if acceptKey {
 				    break;
 			}
 			if !dontbreak {
-				instance_destroy(self);
-			}
-			else {
-				dontbreak = false;
+				instance_destroy(oLaunderMenu);
+				iTimeControl.step = 3;
 			}
 			break;
 	}   

@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oMakePopup",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oLogo",
+  "eventList":[],
   "managed":true,
-  "name":"oMakePopup",
+  "name":"oLogo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Main room",
-    "path":"folders/Objects/Main room.yy",
+    "name":"Menu",
+    "path":"folders/Objects/Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sButton",
-    "path":"sprites/sButton/sButton.yy",
+    "name":"sLogo",
+    "path":"sprites/sLogo/sLogo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
