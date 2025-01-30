@@ -1,0 +1,145 @@
+[
+ {
+   "id": 0,
+   "title": "Your nephew killed a person in a car accident!",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Send him out to chill in Italy"
+ },
+ {
+   "id": 1,
+   "title": "The educators are protesting... again ??",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Who cares"
+ },
+ {
+   "id": 2,
+   "title": "The renovated rail station fell down and killed citizens!",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Lie"
+ },
+ {
+   "id": 3,
+   "title": "Whistleblower broke the silence on the renovation project! Kill him..?",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Pay an assassin to kill him"
+ },
+ {
+   "id": 4,
+   "title": "A reporter keeps annoying you",
+   "desc": "A reporter from an irrelevant TV station keeps attending your every speech and asking you inappropriate questions that you didn't prepare answers for. However, it doesn't seem that she's been taken that seriously by the masses. She still annoys you though.",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": ""
+ },
+ {
+   "id": 5,
+   "title": "The students started protesting... democratically ??",
+   "desc": "The worst of all - you cannot bribe them! And God knows how much you hate unbribable people",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Threaten to send specialized military groups to beat them up"
+ },
+ {
+   "id": 6,
+   "title": "Foreign investors want to collab",
+   "desc": "They've found lithium in one of your villages!",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Sell your land, make profit, become the alpha"
+ },
+ {
+   "id": 7,
+   "title": "The citizens are inhaling toxic gases",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Pay actors to pretend they're specialists and to tell citizens it's nothing serious"
+ },
+ {
+   "id": 8,
+   "title": "The citizens are drinking muddy water",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Pay actors to pretend they're specialists and to tell citizens it's nothing serious"
+ },
+ {
+   "id": 9,
+   "title": "100k people attended the recent protest",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Tell the media to cover it up"
+ },
+ {
+   "id": 10,
+   "title": "The citizens are frustrated about the inflation",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Send a minister to act relatable"
+ },
+ {
+   "id": 11,
+   "title": "A tragic event resulted in several deaths, but your favorite team is playing tonight",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Postpone the mourning day"
+ },
+ {
+   "id": 12,
+   "title": "Students are protesting in front of the media house",
+   "desc": "",
+   "budget": 0,
+   "wealth": 0,
+   "frustration": 0,
+   "trust": 0,
+   "contentment": 0,
+   "option-yes": "Who cares"
+ }
+]
