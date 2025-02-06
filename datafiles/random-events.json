@@ -1,14 +1,14 @@
 [
  {
    "id": 0,
-   "title": "Your nephew killed a person in a car accident!",
+   "title": "Your nephew killed a person in a hit and run!",
    "desc": "",
    "budget": 0,
    "wealth": 0,
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Send him out to chill in Italy"
+   "option-yes": "Send him out to chill in Italy?"
  },
  {
    "id": 1,
@@ -19,29 +19,29 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Who cares"
+   "option-yes": "Raise their pays?"
  },
  {
    "id": 2,
-   "title": "The renovated rail station fell down and killed citizens!",
+   "title": "The renovated train station collapsed and killed citizens!",
    "desc": "",
    "budget": 0,
    "wealth": 0,
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Lie"
+   "option-yes": "Lie that you didn't renovate it?"
  },
  {
    "id": 3,
-   "title": "Whistleblower broke the silence on the renovation project! Kill him..?",
+   "title": "A whistleblower broke the silence on the renovation project!",
    "desc": "",
    "budget": 0,
    "wealth": 0,
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Pay an assassin to kill him"
+   "option-yes": "Kill him..?"
  },
  {
    "id": 4,
@@ -63,18 +63,18 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Threaten to send specialized military groups to beat them up"
+   "option-yes": "Threaten to send specialized military groups to beat them up?"
  },
  {
    "id": 6,
-   "title": "Foreign investors want to collab",
+   "title": "Foreign investors want to collab. They've found lithium in one of your villages!",
    "desc": "They've found lithium in one of your villages!",
    "budget": 0,
    "wealth": 0,
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Sell your land, make profit, become the alpha"
+   "option-yes": "Sell your land, make profit, become the alpha?"
  },
  {
    "id": 7,
@@ -85,7 +85,7 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Pay actors to pretend they're specialists and to tell citizens it's nothing serious"
+   "option-yes": "Pay actors to pretend they're specialists and to tell citizens it's nothing serious?"
  },
  {
    "id": 8,
@@ -96,7 +96,7 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Pay actors to pretend they're specialists and to tell citizens it's nothing serious"
+   "option-yes": "Pay actors to pretend they're specialists and to tell citizens it's nothing serious?"
  },
  {
    "id": 9,
@@ -107,7 +107,7 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Tell the media to cover it up"
+   "option-yes": "Lie that it was only 10k?"
  },
  {
    "id": 10,
@@ -118,7 +118,7 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Send a minister to act relatable"
+   "option-yes": "Tell them to feed their families off two eggs a day?"
  },
  {
    "id": 11,
@@ -129,7 +129,7 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Postpone the mourning day"
+   "option-yes": "Postpone the mourning day?"
  },
  {
    "id": 12,
@@ -140,6 +140,6 @@
    "frustration": 0,
    "trust": 0,
    "contentment": 0,
-   "option-yes": "Who cares"
+   "option-yes": "Pay hooligans to run them over with cars?"
  }
 ]
