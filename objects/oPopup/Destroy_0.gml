@@ -1,2 +1,2 @@
-iTimeControl.step = 2;
+iTimeControl.step = 3;
 iTimeControl.go = true;
