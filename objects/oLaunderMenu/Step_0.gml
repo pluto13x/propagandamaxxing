@@ -95,6 +95,7 @@ if acceptKey {
 			if !dontbreak {
 				instance_destroy(oLaunderMenu);
 				iTimeControl.step = 3;
+				iTimeControl.go = true;
 			}
 			break;
 	}   

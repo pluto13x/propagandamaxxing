@@ -13,5 +13,11 @@ if (file_exists(working_directory + "random-events.json")) {
 	events = json_parse(json);
 }
 
-show_debug_message(events[0][$ "title"]);
+with iPopupControl {
+	eventsAmount = array_length_1d(iRandomEvents.events);
+	for (var i = 0; i < eventsAmount; i += 1) {
+		eventChecker[i] = false;
+	}
+}
+
 
