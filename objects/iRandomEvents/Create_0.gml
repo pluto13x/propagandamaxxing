@@ -14,3 +14,4 @@ if (file_exists(working_directory + "random-events.json")) {
 }
 
 show_debug_message(events[0][$ "title"]);
+

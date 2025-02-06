@@ -12,7 +12,7 @@
     "path":"folders/Objects/info.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -34,5 +34,5 @@
     "path":"sprites/sRandomEvents/sRandomEvents.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
