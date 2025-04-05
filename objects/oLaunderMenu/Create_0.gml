@@ -1,3 +1,4 @@
+
 width = iMenuControl.width;
 height = iMenuControl.height;
 image_xscale = width/sprite_width;

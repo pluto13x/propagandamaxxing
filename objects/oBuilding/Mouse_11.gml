@@ -1,1 +1,1 @@
-image_blend = c_white;
+mouseOnBuilding = false;
