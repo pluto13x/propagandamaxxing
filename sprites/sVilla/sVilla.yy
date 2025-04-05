@@ -23,7 +23,7 @@
   ],
   "name":"sVilla",
   "nineSlice":null,
-  "origin":0,
+  "origin":9,
   "parent":{
     "name":"buildings",
     "path":"folders/Sprites/main room/buildings.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
+    "xorigin":80,
     "yorigin":0,
   },
   "swatchColours":null,

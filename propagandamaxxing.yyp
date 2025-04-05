@@ -51,6 +51,7 @@
   "name":"propagandamaxxing",
   "resources":[
     {"id":{"name":"fAdamantSansProRegular","path":"fonts/fAdamantSansProRegular/fAdamantSansProRegular.yy",},},
+    {"id":{"name":"fAdamantSansProRegularSmall","path":"fonts/fAdamantSansProRegularSmall/fAdamantSansProRegularSmall.yy",},},
     {"id":{"name":"iInitNext","path":"objects/iInitNext/iInitNext.yy",},},
     {"id":{"name":"iMenuControl","path":"objects/iMenuControl/iMenuControl.yy",},},
     {"id":{"name":"iPopupControl","path":"objects/iPopupControl/iPopupControl.yy",},},
@@ -58,6 +59,7 @@
     {"id":{"name":"iTimeControl","path":"objects/iTimeControl/iTimeControl.yy",},},
     {"id":{"name":"oAssembly","path":"objects/oAssembly/oAssembly.yy",},},
     {"id":{"name":"oBuilding","path":"objects/oBuilding/oBuilding.yy",},},
+    {"id":{"name":"oBuildingText","path":"objects/oBuildingText/oBuildingText.yy",},},
     {"id":{"name":"oChurch","path":"objects/oChurch/oChurch.yy",},},
     {"id":{"name":"oCourthouse","path":"objects/oCourthouse/oCourthouse.yy",},},
     {"id":{"name":"oDorm","path":"objects/oDorm/oDorm.yy",},},

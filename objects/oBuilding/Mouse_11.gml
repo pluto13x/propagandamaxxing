@@ -1,1 +1,2 @@
 mouseOnBuilding = false;
+oBuildingText.buildingName = "";
