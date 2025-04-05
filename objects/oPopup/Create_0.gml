@@ -4,12 +4,13 @@ image_xscale = width/sprite_width;
 image_yscale = height/sprite_height;
 
 margin = iMenuControl.margin;
-lineSpacing = iMenuControl.lineSpacing - 30;
+topMargin = 60;
+lineSpacing = 60;
 textColor = c_black;
+event = 0;
 
 do {
 	event = irandom(iPopupControl.eventsAmount-1);
-	show_debug_message(event);
 }
 until !iPopupControl.eventChecker[event];
 

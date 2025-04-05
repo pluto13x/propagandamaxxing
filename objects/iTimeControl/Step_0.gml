@@ -17,4 +17,3 @@ if week == 53 {
 	game_end();
 }
 
-show_debug_message(step);

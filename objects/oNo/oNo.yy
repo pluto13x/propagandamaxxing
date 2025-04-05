@@ -9,7 +9,10 @@
     "name":"Main room",
     "path":"folders/Objects/Main room.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oExit",
+    "path":"objects/oExit/oExit.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
