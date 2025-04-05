@@ -1,3 +1,3 @@
 week = 1;
-step = 1;
+step = 0;
 go = true;

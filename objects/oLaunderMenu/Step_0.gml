@@ -17,12 +17,7 @@ for (var i = 0; i < optionLength; i += 1) {
 	if mouse_y >= y + topMargin + lineSpacing * i 
 	and mouse_y < y + topMargin + lineSpacing * i + font_get_size(fAdamantSansProRegular) //if the mouse is hovering over the option
 	and mouseOnMenu(oLaunderMenu, topMargin) { //if the mouse is within the menu
-		if mouse_x <= room_width / 2 {
-			position = i; //highlight the option in column 1
-		}
-	    else {
-			position = i + 6; //highlight the option in column 2
-		}
+		position = i; 
 	}
 }
 //funkcionalne opcije
