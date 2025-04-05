@@ -27,77 +27,24 @@ for (var i = 0; i < optionLength; i += 1) {
 }
 //funkcionalne opcije
 if acceptKey {
-	switch(menuLevel) { 
-		case 0: //what project
-			switch(position) {
-				case 0: // Church
-					
-					break;
-				case 1: // Train station
-					
-					break;
-				case 2: // Media house
-					
-					break;
-				case 3: // Military base
-					
-					break;
-				case 4: // Prison
-					
-					break;
-				case 5: // Stadion
-					
-					break;
-				case 6: // Plaza
-					
-					break;
-				case 7: // Student dorm
-					
-					break;
-				case 8: // University
-					
-					break;
-				case 9: // Court
-					
-					break;
-				case 10: // Culture expo
-					
-					break;
-				case 11: // Assembly
-					
-					break;
-			}
-			menuLevel = 1;
-		    position = 0;
-			break;
+	switch(position) {
+		case 0: //0%
 			
-				
-		case 1: //how much money
-			switch(position) {
-				case 0: //0%
-					dontbreak = false;
-					break;
-				case 1: //25%
-					dontbreak = false;
-					break;
-				case 2: //50%
-					dontbreak = false;
-				    break;
-				case 3: //75%
-					dontbreak = false;
-					break;
-				case 4: //back
-					menuLevel = 0;
-					position = 0;
-					dontbreak = true;
-				    break;
-			}
-			if !dontbreak {
-				instance_destroy(oLaunderMenu);
-				iTimeControl.step = 2;
-				iTimeControl.go = true;
-			}
 			break;
-	}   
-	optionLength = array_length(option[menuLevel]);
+		case 1: //25%
+			
+			break;
+		case 2: //50%
+			
+			break;
+		case 3: //75%
+			
+			break;
+		case 4: //back
+
+			break;
+	}
+	instance_destroy(oLaunderMenu);
+	iTimeControl.step = 2;
+	iTimeControl.go = true;
 }

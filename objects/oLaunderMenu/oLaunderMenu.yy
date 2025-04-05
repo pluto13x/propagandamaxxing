@@ -36,5 +36,5 @@
     "path":"sprites/sPopup/sPopup.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
