@@ -75,6 +75,7 @@
     {"id":{"name":"oPlaza","path":"objects/oPlaza/oPlaza.yy",},},
     {"id":{"name":"oPopup","path":"objects/oPopup/oPopup.yy",},},
     {"id":{"name":"oPrison","path":"objects/oPrison/oPrison.yy",},},
+    {"id":{"name":"oQuestion","path":"objects/oQuestion/oQuestion.yy",},},
     {"id":{"name":"oStatsWindow","path":"objects/oStatsWindow/oStatsWindow.yy",},},
     {"id":{"name":"oTimeWindow","path":"objects/oTimeWindow/oTimeWindow.yy",},},
     {"id":{"name":"oTrainStation","path":"objects/oTrainStation/oTrainStation.yy",},},

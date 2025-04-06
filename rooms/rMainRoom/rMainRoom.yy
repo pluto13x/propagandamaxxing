@@ -22,6 +22,7 @@
     {"name":"inst_E7B5174","path":"rooms/rMainRoom/rMainRoom.yy",},
     {"name":"inst_6743ECB2","path":"rooms/rMainRoom/rMainRoom.yy",},
     {"name":"inst_613DFD90","path":"rooms/rMainRoom/rMainRoom.yy",},
+    {"name":"inst_6FAB9204","path":"rooms/rMainRoom/rMainRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -31,6 +32,7 @@
     {"$GMRInstanceLayer":"","%Name":"layerUI","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_63316044","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_63316044","objectId":{"name":"oTimeWindow","path":"objects/oTimeWindow/oTimeWindow.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v1","%Name":"inst_6426EAAD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6426EAAD","objectId":{"name":"oStatsWindow","path":"objects/oStatsWindow/oStatsWindow.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1504.0,"y":0.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6FAB9204","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6FAB9204","objectId":{"name":"oQuestion","path":"objects/oQuestion/oQuestion.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.83645654,"scaleY":1.0,"x":0.0,"y":230.0,},
       ],"layers":[],"name":"layerUI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"layerBuildingText","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_35AA43FF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35AA43FF","objectId":{"name":"oBuildingText","path":"objects/oBuildingText/oBuildingText.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":662.0,"y":85.0,},
